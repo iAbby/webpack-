@@ -1,3 +1,10 @@
 https://www.cnblogs.com/brandonhulala/p/6057378.html
 http://www.lujunjie.jiahuicheng.com/
 https://github.com/yangyuji
+
+
+
+vue 管理系统
+https://github.com/lin-xin/vue-manage-system
+demo:
+http://blog.gdfengshuo.com/example/work/
